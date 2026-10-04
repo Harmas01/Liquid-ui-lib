@@ -1,0 +1,14 @@
+{
+  "projectPath": ":liquid-ui-library",
+  "classpaths": {
+    "test": [
+      "C:\\Users\\PC\\Desktop\\1.20.1\\ports\\1.21.1\\liquid-ui-library\\build\\classes\\java\\test",
+      "C:\\Users\\PC\\Desktop\\1.20.1\\ports\\1.21.1\\liquid-ui-library\\build\\resources\\test"
+    ],
+    "main": [
+      "C:\\Users\\PC\\Desktop\\1.20.1\\ports\\1.21.1\\liquid-ui-library\\build\\classes\\java\\main",
+      "C:\\Users\\PC\\Desktop\\1.20.1\\ports\\1.21.1\\liquid-ui-library\\build\\resources\\main",
+      "C:\\Users\\PC\\Desktop\\1.20.1\\ports\\1.21.1\\liquid-ui-library\\build\\devlibs\\liquid-ui-library-1.1.0+mc1.21.1-dev.jar"
+    ]
+  }
+}
