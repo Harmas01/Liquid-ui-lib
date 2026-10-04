@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[52,)"
+license="CC0-1.0"
+clientSideOnly=true
+[[mods]]
+modId="liquid_ui_library"
+version="1.1.0+mc1.21.1-forge"
+displayName="Liquid UI Library"
+logoFile="assets/liquid_ui_library/icon.png"
+description='''Библиотека интерфейсов в стиле жидкого стекла для клиентских модов.'''
+[[dependencies.liquid_ui_library]]
+modId="forge"
+mandatory=true
+versionRange="[52,)"
+ordering="NONE"
+side="CLIENT"
+[[dependencies.liquid_ui_library]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21.1,1.21.2)"
+ordering="NONE"
+side="CLIENT"
